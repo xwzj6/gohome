@@ -1,0 +1,52 @@
+@CHARSET "UTF-8";
+
+.top_a a {
+			
+			position: relative;
+			padding: 10px 50px;
+			color: #03e9f4;
+			/* 取消a表现原有的下划线 */
+			text-decoration: none;
+			/* 同样加个过渡 */
+			transition: all 0.5s;
+			font-size: 20px;
+		}
+		.top_a a:hover {
+			color: #fff;
+			border-radius: 2px;
+			background-color: #03e9f4;
+			box-shadow: 0 0 20px #03e9f4, 0 0 20px #03e9f4, 0 0 20px #03e9f4,
+				0 0 20px #03e9f4;
+		}
+		.top_b{
+			padding-top: 10px;
+			float:left;
+			width:20%;
+			height: 30px;
+		}
+		.top_b0{
+			opacity: 0.5;
+			width: 10%;
+			float:left;
+		}
+		.top_a{
+			/* 弹性布局 让页面元素垂直+水平居中 */
+			display: flex;
+			justify-content: center;
+			align-items: center;
+
+			background: linear-gradient(#141e30, #243b55);
+			
+			width:100%;
+		}
+		.top_b1{
+			height: 30px;
+		}
+		.top_act{
+
+		}
+		.logout{
+			background-image: url("img/logout.jpg");
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+		}

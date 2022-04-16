@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_6_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/many compilers/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="D:/many compilers/commons-fileupload-1.4-bin/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/many compilers/commons-io-2.4_jb51/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/many compilers/二维码生成jar包/qrcode-zxing-jdk1.6.jar"/>
+	<classpathentry kind="lib" path="D:/many compilers/二维码生成jar包/qrcode-zxing-jdk1.6-sources.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
